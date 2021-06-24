@@ -1,0 +1,5 @@
+Install:
+vlc-3.0.12-win64.exe /S
+
+Uninstall:
+"C:\Program Files\VideoLAN\VLC\uninstall.exe" /S

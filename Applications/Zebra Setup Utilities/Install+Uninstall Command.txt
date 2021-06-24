@@ -1,0 +1,5 @@
+Install Command:
+zsu-1191245.exe /s
+
+Uninstall Command:
+Unknown

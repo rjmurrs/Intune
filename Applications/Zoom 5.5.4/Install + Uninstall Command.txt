@@ -1,0 +1,7 @@
+Install:
+msiexec /i ZoomInstallerFull.msi /quiet /qn /norestart 
+
+Uninstall:
+msiexec /x "{9A0F6468-2A0B-4E6A-B212-40C55E9B4B4B}" /q
+
+

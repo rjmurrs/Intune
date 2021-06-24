@@ -1,0 +1,5 @@
+Install:
+installer-win-32.exe /s
+
+Uninstall:
+C:\Users\user\AppData\Local\rvplayer\scripts\uninstall.bat

@@ -9,7 +9,7 @@
 * Ability to specify shortcut icon (UNC/URL)
 * Ability to deploy shortcut with Intune Win32 app dependencies
 
-## How to
+## Instructions
 
 * Go to [Microsoft Endpoint Manager](https://endpoint.microsoft.com)
 * Navigate to All Services --> Apps --> [All Apps](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/AppsMenu/allApps) --> Add --> Windows App (Win32)

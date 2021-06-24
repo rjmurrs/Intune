@@ -1,0 +1,8 @@
+Install:
+
+%windir%\sysnative\windowspowershell\v1.0\powershell.exe -ExecutionPolicy Bypass -file "CreateDesktopIcon.ps1" -ShortcutTargetPath "%SystemDrive%\neulog\neulog.exe" -ShortcutDisplayName "NeuLog" -IconFile "%SystemDrive%\neulog\icon.ico"
+
+
+Uninstall:
+
+%windir%\sysnative\windowspowershell\v1.0\powershell.exe -ExecutionPolicy Bypass -file "RemoveDesktopIcon.ps1" -ShortcutDisplayName "NeuLog"

@@ -1,0 +1,5 @@
+Install:
+VSCodeUserSetup-x64-1.56.2.exe /VERYSILENT /NORESTART /MERGETASKS=!runcode
+
+Uninstall:
+"%ProgramFiles(x86)%\Microsoft VS Code\unins000.exe" /VERYSILENT /NORESTART

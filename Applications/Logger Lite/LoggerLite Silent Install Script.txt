@@ -1,0 +1,1 @@
+LoggerLite194Installer.exe /S /v/qn

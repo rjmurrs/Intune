@@ -24,4 +24,4 @@
 * Review and create the app
 
 ## Inspired by
-https://tech.nicolonsky.ch/intune-create-desktop-shortcut/#create-a-shortcut-on-the-allusers-desktop 
+https://tech.nicolonsky.ch/intune-create-desktop-shortcut/#create-a-shortcut-on-the-allusers-desktop

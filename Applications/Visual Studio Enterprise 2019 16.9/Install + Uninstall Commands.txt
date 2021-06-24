@@ -1,0 +1,6 @@
+Install:
+vs_Enterprise.exe --includeRecommended --includeOptional --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.CoreEditor --add Microsoft.VisualStudio.Workload.NativeDesktop --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.Python -q --norestart
+
+Uninstall:
+"C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe" uninstall --installPath "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise" -q
+

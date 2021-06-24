@@ -1,0 +1,6 @@
+Install:
+ZwiftSetup.exe /silent
+
+Uninstall:
+C:\Program Files (x86)\Zwift\unins000.exe /silent
+

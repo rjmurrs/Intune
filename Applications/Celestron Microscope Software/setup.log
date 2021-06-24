@@ -1,0 +1,31 @@
+[InstallShield Silent]
+Version=v6.00.000
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=Ulead Photo Explorer
+Version=7.0
+Company=Ulead Systems
+Lang=0009
+[Shared Files -- Removed]
+File0=C:\WINDOWS\system32\INETWH32.dll
+File1=C:\Program Files (x86)\Common Files\Ulead Systems\DVD\XLogUtil.dll
+File2=C:\Program Files (x86)\Common Files\Ulead Systems\DVD\LdvdRec.dll
+File3=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\uvsc.dll
+File4=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\ulspmpeg.ax
+File5=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\ulesmpeg.ax
+File6=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\uldsmpeg.ax
+File7=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\pcmaout.dll
+File8=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\MPGVOUT.dll
+File9=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\mpgvout.004
+File10=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\mpgvout.003
+File11=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\mpgvout.002
+File12=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\mpgvout.001
+File13=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\mpgmux.dll
+File14=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\mpgcheck.dll
+File15=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\mpgcap32.dll
+File16=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\MPGAOUT.DLL
+File17=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\mpg_dlg.dll
+File18=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\MPEGIN.DLL
+File19=C:\Program Files (x86)\Common Files\Ulead Systems\Mpeg\MCMpgDec.dll

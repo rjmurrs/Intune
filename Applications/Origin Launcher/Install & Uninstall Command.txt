@@ -1,0 +1,5 @@
+Install:
+OriginThinSetup.exe /SILENT
+
+Uninstall:
+"%ProgramFiles(x86)%\Origin\OriginUninstall.exe" /SILENT

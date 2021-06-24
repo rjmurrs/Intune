@@ -1,0 +1,5 @@
+Install:
+neulog_ver_7.114.126.exe -silent
+
+Uninstall:
+neulog_ver_7.114.126.exe -silent
